@@ -1,0 +1,6 @@
+=== Exposed Endpoints ===
+https://www.priceline.com/.git/config - HTTP 403 -     5354bytes
+https://www.priceline.com/.env - HTTP 403 -     5354bytes
+https://www.priceline.com/robots.txt - HTTP 200 -     4163bytes
+https://www.priceline.com/sitemap.xml - HTTP 200 -     1673bytes
+=== Exposed Endpoints Complete ===

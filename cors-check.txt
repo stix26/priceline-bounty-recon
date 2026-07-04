@@ -1,0 +1,16 @@
+=== CORS Check ===
+VULNERABLE: ids-qa.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: wildcard.qaa.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: qaa.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: wildcard.preprod.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: 1psb.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: www.qaa.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: www.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: pkg-whitelabel.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: offers.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: experiences.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: ids.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: preprod.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: qa.priceline.com - access-control-allow-origin: https://evil.com
+VULNERABLE: links.priceline.com - access-control-allow-origin: https://evil.com
+=== CORS Check Complete ===
