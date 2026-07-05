@@ -1,12 +1,9 @@
-# Priceline Bounty Recon - July 2026
+# Priceline Bug Bounty Reconnaissance
 
-**Program:** Priceline on HackerOne
-**Target domain:** priceline.com
+Bug bounty recon pipeline output for Priceline (hackerone.com/priceline).
 
-**Recon Results:**
-- Subdomains found: 406
-- Live hosts: ~80
-- CORS misconfigurations: 14 (reflect arbitrary origin)
-- QA/staging hosts with CORS issues identified
-
-**Notable subdomains:** various QA, staging, and API endpoints
+## Session: 2026-07-05
+- **CORS:** Reflective CORS with `Access-Control-Allow-Credentials: true` on www.priceline.com
+- **Accepts `Origin: null`** — potentially exploitable
+- **Note:** Cloudflare WAF returns 403 before application content
+- **Status:** Informational finding — WAF-limited
