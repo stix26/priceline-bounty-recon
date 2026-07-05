@@ -1,0 +1,1 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/priceline.com/v2.0/.well-known/openid-configuration ["adbc8019-8aa3-46e1-a416-f2e7473b96f3"]
