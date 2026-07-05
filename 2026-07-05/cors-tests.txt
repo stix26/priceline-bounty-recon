@@ -1,3 +1,0 @@
-=== Priceline ===
-www.priceline.com: Reflective CORS + allow-credentials: true
-(Blocked by Cloudflare WAF - 403)
