@@ -1,5 +1,0 @@
-priceline.com -> HTTP/2 301 
-www.priceline.com -> HTTP/2 403 
-api.priceline.com -> HTTP/2 403 
-booking.priceline.com -> HTTP/2 301 
-hotels.priceline.com -> cars.priceline.com -> flights.priceline.com -> 

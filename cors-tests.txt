@@ -1,5 +1,0 @@
-priceline.com: No CORS headers
-www.priceline.com: access-control-allow-origin: https://evil.com
-access-control-allow-credentials: true
-api.priceline.com: No CORS headers
-booking.priceline.com: No CORS headers
